@@ -1,7 +1,7 @@
 # norde
-a simple, transparent nord theme for aliucord 
+a simple, transparent nord theme for aliucord.
 
-- note: make sure that **chat and settings transparency** as well as **font hook** are enabled
+- note: **chat and settings transparency** as well as **font hook** must be enabled for this theme to function properly
 
 version: vee-one
 
