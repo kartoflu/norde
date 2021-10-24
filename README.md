@@ -11,4 +11,7 @@
 
 - Important note: **Chat and settings transparency** as well as **font hook** must be enabled for this theme to function properly
 
-Current version: vee-one
+Current version: vee-one (1.0)
+
+## Changelog: 
+- Added alternative version with different ping color and unread badges
