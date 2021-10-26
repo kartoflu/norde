@@ -1,0 +1,79 @@
+{
+    "manifest": {
+        "name": "norde [b]",
+        "author": "karto",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/norde.json",
+        "version": "1.0.01"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/886511784352157699\/895316438724771840\/Untitled26_20211006212743.png",
+        "overlay_alpha": 2,
+        "blur_radius": 25
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885548081117007892\/Ubuntu-Bold.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885542769253298256\/Product_Sans_Bold.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885566875986198528\/Cabin-Medium.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885571543747428432\/Cabin-SemiBold.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885572167910166539\/Ubuntu-Regular.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885572167721451571\/Ubuntu-Medium.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 1260726580,
+        "accent": -7814960,
+        "input_background": -14341836
+    },
+    "colors": {
+        "link": -7814960,
+        "primary_700": -14341836,
+        "primary_dark_360": -9469798,
+        "primary_dark_400": -9008469,
+        "primary_dark_600": -13749184,
+        "primary_dark_630": -13749184,
+        "primary_dark_660": -14341836,
+        "primary_dark_700": -14341836,
+        "primary_dark_800": -14341836,
+        "uikit_btn_bg_color_selector_red": -11443845,
+        "uikit_btn_compound_color_selector_light": -11443845,
+        "primary_dark_300": -9008469,
+        "uikit_btn_bg_color_selector_green": -9719612,
+        "primary_dark_200": -5719857,
+        "uikit_btn_compound_color_selector_dark": -9719612,
+        "brand_500_alpha_20": 1264484780,
+        "uikit_settings_item_text_color_dark": -5719857,
+        "uikit_settings_item_text_color_light": -11443845,
+        "link_500": -7814960,
+        "brand_new_560": 2435380,
+        "white_500": -3879201,
+        "black_alpha_80": -1524291276
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -12893614,
+        "ic_channel_text": -11443845,
+        "ic_sidebar_pins_off_dark_24dp": -9008469,
+        "ic_sidebar_notifications_on_dark_24dp": -9008469,
+        "ic_sidebar_notifications_off_dark_24dp": -9008469,
+        "drawable_voice_indicator_speaking": -4234902,
+        "drawable_overlay_channels_dark": -12893614,
+        "ic_direct_message_header": -11443845,
+        "ic_group_message_header": -11443845,
+        "ic_menu_24dp": -9008469,
+        "ic_channel_announcements": -11443845,
+        "ic_channel_announcements_locked": -11443845,
+        "ic_channel_announcements_nsfw": -11443845,
+        "ic_channel_text_locked": -11443845,
+        "ic_channel_text_nsfw": -11443845,
+        "ic_thread": -9008469,
+        "ic_thread_nsfw": -9008469,
+        "ic_thread_locked": -9008469,
+        "ic_channel_topic_ellipsis_light": -11443845,
+        "ic_channel_topic_ellipsis_dark": -11443845,
+        "ic_channel_voice_locked": -11443845,
+        "ic_channel_voice": -11443845,
+        "ic_channel_lock_16dp": -11443845,
+        "ic_channel_announcements_thread_nsfw": -11443845,
+        "ic_channel_announcements_thread_locked": -11443845,
+        "ic_channel_announcements_thread": -11443845,
+        "ic_channel_pinned_message": -9008469
+    }
+}
