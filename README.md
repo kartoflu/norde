@@ -14,4 +14,4 @@
 Current version: vee-one (1.0)
 
 ## Changelog: 
-- Added alternative version with different ping color and unread badges
+- Added alternative version (1.0.01) with different ping color and unread badges
