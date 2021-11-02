@@ -2,7 +2,7 @@
     "manifest": {
         "name": "norde [a]",
         "author": "karto",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/norde-a.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/norde%20%5Ba%5D.json",
         "version": "2.0.0"
     },
     "background": {
