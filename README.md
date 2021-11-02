@@ -11,8 +11,16 @@
 
 - Important note: **Chat and settings transparency** as well as **font hook** must be enabled for this theme to function properly
 
-Current version: vee-one (1.0.00)
+Current version: 2.0.0
 
-## Changelog: 
-- Replaced orange accent with a blue one
-- Added alternative version (1.0.01) with different ping color and unread badges
+## Changelog:
+### 2.0.0
+- Improved readability
+- Replaced channel name font (Ubuntu > Inter)
+- Mention highlight is now more noticeable
+- Overal improvement (darker background, themed elements, etc)
+### 1.0.1 
+- Replaced orange accent
+- Added alternative version (1.0.1) with different ping color and unread badges
+### 1.0.0
+- Initial release
