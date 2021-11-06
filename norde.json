@@ -46,7 +46,9 @@
         "primary_700_alpha_60": 2764603,
         "black_alpha_10": 2764603,
         "primary_dark_900": -14012613,
-        "primary_900_alpha_80": -14341836
+        "primary_900_alpha_80": -14341836,
+        "primary_660": -13749182,
+        "primary_630": -13749182
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -12893614,
