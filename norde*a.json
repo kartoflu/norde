@@ -1,9 +1,9 @@
 {
     "manifest": {
-        "name": "norde [a]",
+        "name": "norde*a",
         "author": "karto",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/norde%20%5Ba%5D.json",
-        "version": "2.0.0"
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/norde*a.json",
+        "version": "2.0.1"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/886511784352157699\/895316438724771840\/Untitled26_20211006212743.png",
