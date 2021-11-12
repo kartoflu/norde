@@ -17,12 +17,12 @@ Current version: 2.0.1
 - Codeblocks are now colored
 - Renamed norde [a] to norde\*
 ### 2.0.0
+- Overal improvement (darker background, themed elements, etc)
 - Improved readability
 - Replaced channel name font (Ubuntu > Inter)
 - Mention highlight is now more noticeable
-- Overal improvement (darker background, etc)
 ### 1.0.1 
 - Replaced orange accent with blue accent
 - Added alternative version (1.0.1) with different ping color and unread badges
 ### 1.0.0
-- Initial release of norde
+- Initial release
