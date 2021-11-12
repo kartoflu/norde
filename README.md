@@ -9,7 +9,7 @@
 
 ![20211015_141118](https://user-images.githubusercontent.com/92243378/137447872-6e494dbe-00a4-4cb0-b87a-9dbae6efa19a.png)
 
-- **Important note**: *Chat and settings transparency* as well as *font hook* must be enabled for this theme to function properly
+- **Important note**: *Chat and settings transparency* as well as *custom font* must be enabled for this theme to function properly
 
 Current version: 2.0.1
 ## Changelog:
