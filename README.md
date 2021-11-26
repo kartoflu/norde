@@ -12,7 +12,7 @@
 
 ##### **Important note**: 
 - Both *Chat and settings transparency* as well as *Custom font* should be enabled for the best experience
-- Keep in mind that this theme was not designed for *Full transparency* setting, therefore it will not work properly if you have the seting enabled
+- Keep in mind that this theme was not designed for *Full transparency* setting, therefore the theme will not work properly if you have it enabled
 ###### Current version: 2.0.1
 ## Changelog:
 ### 2.0.1
