@@ -26,7 +26,7 @@
 - Media player and image viewer are also themed
 ### 1.1.1
 - Fixed issue with NoBurnIn sidebar search button
-- Added standalone alternative version (1.0.2) with different ping color and unread badges
+- Added standalone alternative version (1.1.1) with different ping color and unread badges
 ### 1.0.1 
 - Replaced orange accent with blue one
 ### 1.0.0
