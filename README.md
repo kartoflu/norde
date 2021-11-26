@@ -12,7 +12,7 @@
 
 ##### **Important note**: 
 - Both *Chat and settings transparency* as well as *Custom font* should be enabled for the best experience
-- Keep in mind that this theme was not designed for *Full* transparency setting, therefore it will not work properly if you have the setting enabled
+- Keep in mind that this theme was not designed for *Full transparency* setting, therefore it will not work properly if you have the it enabled
 ###### Current version: 2.0.1
 ## Changelog:
 ### 2.0.1
@@ -24,7 +24,7 @@
 - Replaced channel name font (Ubuntu > Inter)
 - Mention highlight is now more noticeable
 - Media player and image viewer are also themed
-### 1.0.2
+### 1.1.1
 - Fixed issue with NoBurnIn sidebar search button
 - Added standalone alternative version (1.0.2) with different ping color and unread badges
 ### 1.0.1 
