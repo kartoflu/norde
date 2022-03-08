@@ -12,7 +12,7 @@
 
 ##### **Note**: Before you install this theme, please make sure these following settings are enabled
 - Chat and settings transparency
-- Custom font (temporary disabled by developer, could still be enabled with guide provided in Themer changelog)
+- Custom font (temporary disabled by developer, could still be enabled using guide provided in Themer changelog)
 ###### Current version: 2.0.1
 ## Changelog:
 ### 2.0.1
