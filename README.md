@@ -10,24 +10,21 @@
 
 ![20211125_220123](https://user-images.githubusercontent.com/92243378/143464476-deecd8c8-5fda-43d1-a0f7-af0993bab92c.jpg)
 
-##### **Important note**: 
-- Both *Chat and settings transparency* as well as *Custom font* should be enabled for the best experience
-- Keep in mind that this theme was not designed for *Full transparency* setting, therefore the theme will not work properly if you have it enabled
+##### **Note**: Before you install this theme, please make sure these following settings are enabled
+- Chat and settings transparency
+- Custom font (temporary disabled by developer, could still be enabled with guide provided in Themer changelog)
 ###### Current version: 2.0.1
 ## Changelog:
 ### 2.0.1
-- Codeblocks are now colored
-- Renamed norde [a] to norde\*
+- Themed codeblocks
 ### 2.0.0
-- Overal improvement (darker background, themed elements, etc)
-- Improved readability
-- Replaced channel name font (Ubuntu > Inter)
-- Mention highlight is now more noticeable
-- Media player and image viewer are also themed
-### 1.1.1
+- Overal improvement (background + font colour tweaks for better readability, better mention highlight, more elements are now themed including media/image viewer and some setting buttons etc, ... )
+- Replaced channel title font (Ubuntu => Inter)
+### 1.1.0
+- Added aternative version with slight changes in ping and unread badges
+### 1.0.2
 - Fixed issue with NoBurnIn sidebar search button
-- Added standalone alternative version (1.1.1) with different ping color and unread badges
 ### 1.0.1 
-- Replaced orange accent with blue one
+- Replaced accent colour (aurora orange => nordish blue)
 ### 1.0.0
 - Initial release
