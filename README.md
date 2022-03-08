@@ -10,7 +10,7 @@
 
 ![20211125_220123](https://user-images.githubusercontent.com/92243378/143464476-deecd8c8-5fda-43d1-a0f7-af0993bab92c.jpg)
 
-##### **Note**: This theme was originally designed for aliucord, thus it's not guaranteed to work on any other Discord clients such as BetterDiscord or Powercord etc.
+##### **Important**: This theme was originally designed for aliucord, thus it's not guaranteed to work on any other Discord clients such as BetterDiscord or Powercord etc.
 Before installing this theme, please make sure these following settings are enabled
 - Chat and settings transparency
 - Custom font (temporary disabled by developer, could still be enabled using guide provided in Themer changelog)
