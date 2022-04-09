@@ -22,7 +22,7 @@ Before installing this theme, please make sure these following settings are enab
 - Overal improvement (background + font colour tweaks for better readability, better mention highlight, more elements are now themed including media/image viewer and some setting buttons etc, ... )
 - Replaced channel title font (Ubuntu **=>** Inter)
 ### 1.1.0
-- Added aternative version with slight changes in ping and unread badges
+- Added aternative version with slight changes (ping and unread badges)
 ### 1.0.2
 - Fixed issue with NoBurnIn sidebar search button
 ### 1.0.1 
