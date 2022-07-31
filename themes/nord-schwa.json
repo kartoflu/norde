@@ -89,7 +89,8 @@
         "ic_visibility_white_24dp": -4206094,
         "ic_notifications_settings_white_a60_24dp": -4206094,
         "ic_thread_white_24dp": -4206094,
-        "ic_content_copy_white_a60_24dp": -4206094
+        "ic_content_copy_white_a60_24dp": -4206094,
+        "ic_notifications_off_white_a60_24dp": -4206094
     },
     "raws": {}
 }
