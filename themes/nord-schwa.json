@@ -3,7 +3,8 @@
         "name": "nord-schwa",
         "author": "karto, based on noel's nord theme",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/nord-schwa.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/nord-schwa.json",
+        "license": "MIT"
     },
     "background": {},
     "fonts": {
