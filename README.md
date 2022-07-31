@@ -32,27 +32,3 @@ You saw the previews, you know what's the deal (heh). The proper setup of this t
 - BetterChatbox
 ###### full guide and previews coming soon
 *Feel free to go nuts with customization, just make sure you don't accidentally create a abomination out of my child, okay?*
-## Changelog:
-## Norde
-### 2.0.1
-- Codeblocks are finally themed
-### 2.0.0
-- Major color tweaks (smoother top & bottom bar, better font color, cooler mention highlight etc)
-- More elements including media viewer are now themed (yay)
-- Swapped the channel title font
-### 1.0.2
-- Fixes for NoBunIn sidebar buttons
-### 1.0.1 
-- Hotfix to replace the unfitting ping color
-### 1.0.0
-- Initial release
-
-## Norde-Asterisk
-### 1.0.0
-- temp
-
-## Nord-Schwa (Nord-ǝ)
-### 1.0.0
-- temp
-
-###### too lazy to update whole changelog rn, maybe later
