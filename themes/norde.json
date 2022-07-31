@@ -2,7 +2,8 @@
     "manifest": {
         "name": "norde",
         "author": "karto",
-        "version": "3.0.0"
+        "version": "3.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde.json"
     },
     "background": {
         "overlay_alpha": 0,

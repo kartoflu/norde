@@ -2,7 +2,8 @@
     "manifest": {
         "name": "nord-schwa",
         "author": "karto, based on noel's nord theme",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/nord-schwa.json"
     },
     "background": {},
     "fonts": {

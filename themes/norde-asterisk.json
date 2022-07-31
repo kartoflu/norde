@@ -2,7 +2,8 @@
     "manifest": {
         "name": "norde-asterisk",
         "author": "karto",
-        "version": "2.0.0"
+        "version": "2.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde-asterisk.json"
     },
     "background": {
         "overlay_alpha": 0,
