@@ -15,7 +15,7 @@ The minimal & transparent nord theme designed for your favorite android app.
 ## Required Settings
 - Chat and settings transparency 
 - Custom fonts
-- please i beg you turn on chat & settings transparency or else im gonna cry
+- please i beg you turn on chat & settings transparency or im gonna cry
 
 ## What's new?
 ### Norde v3.0.0 and Norde-Asterisk v2.0.0
@@ -23,11 +23,11 @@ The minimal & transparent nord theme designed for your favorite android app.
 - Fixed some uncolored texts and icons + removed the annoying blur banding in background
 - Switched font and background host from Discord to Github
 - (Asterisk) Renamed norde* to norde-asterisk
-### Nord-Schwa v1.0.0
+### Nord-Schwa (Nord-ə) v1.0.0
 - Initial release
 
 ## #Get-the-right-setup
-You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins bellow:
+You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
 - NoBurnIn
 - BetterChatbox
 ###### full guide and previews coming soon
