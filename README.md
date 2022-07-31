@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-The minimal & transparent Nord theme designed for your favorite android app.
+The minimal & transparent nord theme designed for your favorite android app.
 </p>
 
 # Preview
