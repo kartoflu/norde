@@ -5,17 +5,16 @@
         "version": "2.0.0"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/886511784352157699\/895316438724771840\/Untitled26_20211006212743.png",
-        "blur_radius": 25,
-        "overlay_alpha": 60
+        "overlay_alpha": 0,
+        "url": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/backgrounds\/asterisk-bg.png"
     },
     "fonts": {
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002057582292242492\/Inter-Bold.ttf",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002059818107928647\/Product_Sans_Bold.ttf.otf",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002057483331837982\/Cabin-SemiBold.ttf",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002057482727866438\/Cabin-Medium.ttf",
-        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002057583760257024\/Inter-SemiBold.ttf",
-        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/1002056703363260467\/1002057583294685284\/Inter-Medium.ttf"
+        "ginto_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Bold.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-SemiBold.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Medium.ttf?raw=true",
+        "whitney_semibold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-SemiBold.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Product_Sans_Bold.ttf.otf?raw=true"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
@@ -23,25 +22,25 @@
         "input_background": -14341836
     },
     "colors": {
-        "link": -7814960,
-        "primary_700": -14012614,
+        "link": -6500644,
+        "primary_700": -14144457,
         "primary_dark_360": -9208684,
         "primary_dark_400": -9208684,
-        "primary_dark_600": -14473167,
+        "primary_dark_600": -14407630,
         "primary_dark_630": -14144457,
-        "primary_dark_660": -14144457,
-        "primary_dark_700": -14276044,
-        "primary_dark_800": -14473167,
+        "primary_dark_660": -14078405,
+        "primary_dark_700": -14407630,
+        "primary_dark_800": -14407630,
         "uikit_btn_bg_color_selector_red": -11443845,
         "uikit_btn_compound_color_selector_light": -11443845,
-        "primary_dark_300": -9536364,
+        "primary_dark_300": -9470053,
         "uikit_btn_bg_color_selector_green": -11443845,
         "primary_dark_200": -3681048,
-        "uikit_btn_compound_color_selector_dark": -7814960,
+        "uikit_btn_compound_color_selector_dark": -8537654,
         "brand_500_alpha_20": 1398702508,
         "uikit_settings_item_text_color_dark": -5719857,
         "uikit_settings_item_text_color_light": -11643287,
-        "link_500": -7814960,
+        "link_500": -6500644,
         "brand_new_560": 2435380,
         "primary_700_alpha_60": 2764603,
         "black_alpha_10": 2764603,
@@ -51,15 +50,15 @@
         "black_alpha_80": 1260726580,
         "primary_630": -14210251,
         "primary_660": -14210251,
-        "primary_dark_330": -9208684,
+        "primary_dark_330": -9338726,
         "brand_new_500": -11443845
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -13222835,
         "ic_channel_text": -12498599,
-        "ic_sidebar_pins_off_dark_24dp": -9536364,
-        "ic_sidebar_notifications_on_dark_24dp": -9536364,
-        "ic_sidebar_notifications_off_dark_24dp": -9536364,
+        "ic_sidebar_pins_off_dark_24dp": -9470053,
+        "ic_sidebar_notifications_on_dark_24dp": -9470053,
+        "ic_sidebar_notifications_off_dark_24dp": -9470053,
         "drawable_voice_indicator_speaking": -4234902,
         "drawable_overlay_channels_dark": -13222835,
         "ic_direct_message_header": -12498599,
@@ -82,11 +81,18 @@
         "ic_channel_announcements_thread_locked": -12498599,
         "ic_channel_announcements_thread": -12498599,
         "ic_channel_pinned_message": -9536364,
-        "ic_sidebar_search_24dp": -9536364,
+        "ic_sidebar_search_24dp": -9470053,
         "ic_open_in_browser_white_24dp": -9536364,
         "ic_file_download_white_24dp": -9536364,
         "ic_share_white_24dp": -9536364,
-        "ic_archived_clock_dark": -9536364
+        "ic_archived_clock_dark": -9536364,
+        "ic_thread_white_24dp": -6507559,
+        "ic_notifications_white_a60_24dp": -6507559,
+        "ic_visibility_white_24dp": -6507559,
+        "ic_notifications_settings_white_a60_24dp": -6507559,
+        "ic_content_copy_white_a60_24dp": -6507559,
+        "ic_person_add_white_a60_24dp": -6507559,
+        "ic_settings_white_a60_24dp": -6507559
     },
     "raws": {}
 }
