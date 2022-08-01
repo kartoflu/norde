@@ -25,6 +25,7 @@ The minimal & transparent nord theme designed for your favorite android app.
 - (Asterisk) Renamed norde* to norde-asterisk
 ### Nord-Schwa (Nord-ə) v1.0.0
 - Initial release
+##### You can check the full changelog for all versions [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md).
 
 ## #Get-the-right-setup
 You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
