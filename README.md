@@ -26,15 +26,15 @@ The minimal & transparent nord theme designed for your favorite android app.
 - Initial release
 ##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md).
 
-## #Get-the-right-setup
+## Manual Installation
+My raw links for Norde in #themes are currently outdated, please be patient and refer to this guide instead until the links are fixed
+- Download your prefered Norde version in [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
+- Move the file you just downloaded to Aliucord/themes
+- Restart Aliucord
+
+## #get-the-right-setup
 You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
 - NoBurnIn
 - BetterChatbox
 ###### full guide and previews coming soon
 *Feel free to go nuts with customization, just make sure you don't accidentally create a abomination out of my child, okay?*
-
-## Manual Installation
-*My raw links for Norde in #themes are currently outdated, please refer to this guide instead*
-- Download your prefered Norde variation in [Releases]()
-- Move the file you just downloaded to Aliucord/themes
-- Restart Aliucord if you still have it running
