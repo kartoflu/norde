@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "norde",
-        "author": "karto",
+        "author": "karto (check github link for other versions)",
         "version": "3.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde.json",
         "license": "MIT"
@@ -94,7 +94,9 @@
         "ic_notifications_settings_white_a60_24dp": -4601109,
         "ic_person_add_white_a60_24dp": -4601109,
         "ic_settings_white_a60_24dp": -4601109,
-        "ic_notifications_off_white_a60_24dp": -4601109
+        "ic_notifications_off_white_a60_24dp": -4601109,
+        "ic_share_white_a60_24dp": -4601109,
+        "ic_open_in_new_white_a60_24dp": -4601109
     },
     "raws": {}
 }
