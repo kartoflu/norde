@@ -24,13 +24,13 @@ The minimal & transparent nord theme designed for your favorite android app.
 - (Asterisk) Renamed norde* to norde-asterisk
 ### Nord-Schwa (Nord-ə) v1.0.0
 - Initial release
-##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md).
+##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
 ## Manual Installation
-My raw links for Norde in #themes are currently outdated, please be patient and refer to this guide instead until the links are fixed
+Manual installation is required for both Asterisk and Schwa variation as I haven't updated the links. For now please be patient and refer to this guide instead until the links are fixed
 - Download your prefered Norde version in [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
 - Move the file you just downloaded to Aliucord/themes
-- Restart Aliucord
+- Restart the app
 
 ## #get-the-right-setup
 You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
