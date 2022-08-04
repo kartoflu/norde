@@ -33,9 +33,9 @@ Manual installation is required for both Asterisk and Schwa variation as I haven
 ## #get-the-right-setup
 You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
 
-![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/noburnin.png)
-
 ![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/betterchatbox.png)
+
+![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/noburnin.png)
 
 ![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/layoutcontroller.png)
 
