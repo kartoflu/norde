@@ -1,5 +1,5 @@
 <h1 align="center">
-  Norde (Nord-Edited)
+  Norde (Nord-edited)
 </h1>
 
 <p align="center">
@@ -8,9 +8,7 @@ The minimal & transparent nord theme designed for your favorite android app.
 
 # Preview
 
-![20211125_202750](https://user-images.githubusercontent.com/92243378/143463802-f341d0d3-d91e-427c-afc1-af139b88a0db.jpg)
-
-![20211125_220123](https://user-images.githubusercontent.com/92243378/143464476-deecd8c8-5fda-43d1-a0f7-af0993bab92c.jpg)
+![title-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/title.png)
 
 ## Required Settings
 - Chat and settings transparency 
@@ -34,7 +32,13 @@ Manual installation is required for both Asterisk and Schwa variation as I haven
 
 ## #get-the-right-setup
 You saw the previews, you know what's the deal (heh). The proper setup of this theme require appropriate settings of these plugins below:
-- NoBurnIn
-- BetterChatbox
-###### full guide and previews coming soon
+
+![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/noburnin.png)
+
+![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/betterchatbox.png)
+
+![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/layoutcontroller.png)
+
+![config](https://raw.githubusercontent.com/kartoflu/norde/main/previews/plugin-config/bonus.png)
+
 *Feel free to go nuts with customization, just make sure you don't accidentally create a abomination out of my child, okay?*
