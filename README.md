@@ -1,13 +1,3 @@
-<h1 align="center">
-  Norde
-</h1>
-
-<p align="center">
-The minimal & transparent nord theme designed for your favorite android app.
-</p>
-
-# Preview
-
 ![title-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/title.png)
 
 ## Required Settings
@@ -25,7 +15,7 @@ The minimal & transparent nord theme designed for your favorite android app.
 ##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
 ## Manual Installation
-Manual installation is required for both Asterisk and Schwa variation as I haven't updated the links. For now please be patient and refer to this guide instead until the links are fixed
+Manual installation is required for both Asterisk and Schwa variation as I haven't updated the links. For now please be patient and refer to this guide instead until the links are fixed.
 - Download your prefered Norde version in [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
 - Move the file you just downloaded to Aliucord/themes
 - Restart the app
