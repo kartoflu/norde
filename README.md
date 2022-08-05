@@ -1,5 +1,5 @@
 <h1 align="center">
-  Norde (Nord-edited)
+  Norde
 </h1>
 
 <p align="center">
@@ -30,19 +30,7 @@ Manual installation is required for both Asterisk and Schwa variation as I haven
 - Move the file you just downloaded to Aliucord/themes
 - Restart the app
 
-## # get-the-right-setup
+## # Get-the-right-setup
 You saw the previews, you know what's the deal. The proper setup of this theme require appropriate settings of these plugins below:
-
-### `BetterChatbox`
-<img src="previews/plugin-config/betterchatbox.png?raw=true" height="300">
-
-### `NoBurnIn`
-<img src="previews/plugin-config/noburnin.png" height="300">
-
-### `LayoutController`
-<img src="previews/plugin-config/layoutcontroller.png" height="300">
-
-### `Bonus`
-<img src="previews/plugin-config/bonus.png" height="300">
 
 *Feel free to go nuts with customization, just make sure you don't accidentally create a abomination out of my child, okay?*
