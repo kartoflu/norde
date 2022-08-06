@@ -50,9 +50,7 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Leave the rest disabled
 
 ### Bonus: CustomTimestamp
-- Set the custom timestamp format as `hh:mm:ss - MMM dd, yyyy`
-
-Feel free to go nuts with customization, just make sure you don't *accidentally* create an abomination out of it, okay?
+- Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
 
 ## Previews
 ![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
@@ -60,3 +58,5 @@ Feel free to go nuts with customization, just make sure you don't *accidentally*
 ![asterisk-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/asterisk-preview.png)
 
 ![schwa-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/schwa-preview.png)
+
+<!-- pshh, wanna know a fact? i barely used the actual nord color scheme in the making of norde, asterisk and even schwa. in other words, i made a set of rip-off nord themes and you all fell for it (kek) -->
