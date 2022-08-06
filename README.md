@@ -1,4 +1,4 @@
-![title-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/title.png)
+![title-preview](previews/title.png)
 
 ## Required Settings
 - Chat and settings transparency 
@@ -24,3 +24,10 @@ Manual installation is required for both Asterisk and Schwa variation as I haven
 You saw the previews, you know what's the deal. The proper setup of this theme require appropriate settings of these plugins below:
 
 *Feel free to go nuts with customization, just make sure you don't accidentally create a abomination out of my child, okay?*
+
+## Previews
+![norde-preview](previews/norde-preview.png)
+
+![asterisk-preview](previews/asterisk-preview.png)
+
+![schwa-preview](previews/schwa-preview.png)
