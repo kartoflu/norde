@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "norde",
-        "author": "karto (check github link for other versions)",
+        "author": "karto",
         "version": "3.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde.json",
         "license": "MIT"
@@ -37,10 +37,10 @@
         "uikit_btn_compound_color_selector_light": -8537654,
         "primary_dark_300": -8417881,
         "uikit_btn_bg_color_selector_green": -8537654,
-        "primary_dark_200": -3681048,
+        "primary_dark_200": -2564375,
         "uikit_btn_compound_color_selector_dark": -8537654,
         "brand_500_alpha_20": 1398702508,
-        "uikit_settings_item_text_color_dark": -5719857,
+        "uikit_settings_item_text_color_dark": -2564375,
         "uikit_settings_item_text_color_light": -11576463,
         "link_500": -6500644,
         "brand_new_560": 2435380,
