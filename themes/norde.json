@@ -14,9 +14,9 @@
         "ginto_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Bold.ttf?raw=true",
         "ginto_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-SemiBold.ttf?raw=true",
         "ginto_regular": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Medium.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Product_Sans_Bold.ttf.otf?raw=true",
         "whitney_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true",
-        "whitney_semibold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-SemiBold.ttf?raw=true"
+        "whitney_semibold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-SemiBold.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Bold.ttf?raw=true"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
