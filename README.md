@@ -1,8 +1,11 @@
 ![title-preview](previews/title.png)
 
-## Required Settings
-- Chat and settings transparency 
-- Custom fonts
+## Requirements
+- Aliucord & Themer Installed (duh)
+  - Transparency set to None
+  - Enable Custom Fonts
+- Dark Mode Enabled
+- (Optional) Set Chat Font Scalling to 80% or any size that fits your preferences
 
 ## What's new?
 ### Norde v3.0.0 and Norde-Asterisk v2.0.0
@@ -16,6 +19,7 @@
 
 ## Manual Installation
 Manual installation is required for both Asterisk and Schwa variation as I haven't updated the links. For now please be patient and refer to this guide instead until the links are fixed.
+<!-- Having troubles with regular installation? You can refer to this guide instead! (Don't worry, it's not even that complicated) -->
 - Download your prefered Norde version in [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
 - Move the file you just downloaded to Aliucord/themes
 - Restart the app
@@ -40,7 +44,7 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Chatbox height: Set as 114
 - Button sizing: Set as 114
 
-### NoBurIn: Enable these folowing
+### NoBurnIn: Enable these folowing
 - Unread counter
 - Drawer button
 - Search button
@@ -49,8 +53,9 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Video button
 - Leave the rest disabled
 
-### Bonus: CustomTimestamp
-- Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
+### Bonus
+- **CustomTimestamp**: Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
+- **SquareAvatars**: Simply install the plugin. That's it.
 
 ## Previews
 ![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
@@ -59,4 +64,4 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 
 ![schwa-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/schwa-preview.png)
 
-<!-- pshh, wanna know a fact? i barely used the actual nord color scheme in the making of norde, asterisk and even schwa. in other words, i made a set of rip-off nord themes and you all fell for it (kek) -->
+<!-- pshh, wanna know a fact? i barely used the actual nord color pallete in the making of norde, asterisk and even schwa. in other words, i made a set of rip-off nord themes and you all fell for it (kekw) -->
