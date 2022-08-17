@@ -1,22 +1,23 @@
 {
     "manifest": {
         "name": "norde-asterisk",
-        "author": "karto",
+        "author": "kanned (karto)",
         "version": "2.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde-asterisk.json",
         "license": "MIT"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/backgrounds\/asterisk-bg.png"
+        "url": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/backgrounds\/asterisk-bg.png",
+        "blur_radius": 0
     },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Bold.ttf?raw=true",
         "ginto_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-SemiBold.ttf?raw=true",
-        "ginto_regular": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Medium.ttf?raw=true",
         "whitney_semibold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-SemiBold.ttf?raw=true",
         "whitney_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Bold.ttf?raw=true"
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Bold.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true"
     },
     "simple_colors": {
         "mention_highlight": 646496464,
