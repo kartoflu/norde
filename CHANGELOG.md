@@ -1,8 +1,8 @@
 # **Changelog**
 
-Funky useless changelog that probably no one will see (kek)
+Funky useless changelog that probably no one will see (kekw)
 
-Also someone please give me a guide to proper versioning I'm tired of messing up with this thing
+<!-- Also can somebody give me a guide to proper versioning I'm tired of messing up -->
 
 ## Norde
 
@@ -33,7 +33,7 @@ Also someone please give me a guide to proper versioning I'm tired of messing up
 ### 1.0.2 - 2021-10-29
 
 #### Added
-- Themed NoBunIn sidebar buttons
+- Themed NoBurnIn sidebar buttons
 
 ### 1.0.1 - 2021-10-15
 
@@ -45,7 +45,7 @@ Also someone please give me a guide to proper versioning I'm tired of messing up
 
 ## Norde-Asterisk
 
-### 2.0.0 2022-07-31
+### 2.0.0 - 2022-07-31
 
 #### Changed
 - Renamed norde* to norde-asterisk
