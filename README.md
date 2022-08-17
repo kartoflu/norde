@@ -1,8 +1,8 @@
 ![title-preview](previews/title.png)
 
 ## Requirements
-- Aliucord & Themer Installed (duh)
-  - Transparency set to None
+- [Aliucord](https://github.com/Aliucord/Aliucord) & [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) Installed (duh)
+  - Transparency set to Chat & Settings
   - Enable Custom Fonts
 - Dark Mode Enabled
 - (Optional) Set Chat Font Scalling to 80% or any size that fits your preferences
@@ -18,14 +18,15 @@
 ##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
 ## Manual Installation
-Manual installation is required for both Asterisk and Schwa variation as I haven't updated the links. For now please be patient and refer to this guide instead until the links are fixed.
-<!-- Having troubles with regular installation? You can refer to this guide instead! (Don't worry, it's not even that complicated) -->
-- Download your prefered Norde version in [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
-- Move the file you just downloaded to Aliucord/themes
-- Restart the app
+Having troubles with regular installation? Try intalling the theme with this guide instead:
+1. Download theme file from [Releases](https://github.com/kartoflu/midnight-espresso/releases/tag/v1.0.0)
+2. Move the file you just downloaded to Aliucord/themes using a file explorer
+3. Restart the app
+
+Note: If your theme can't properly load in, it might be your device's fault. Please see #theme-support in [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (remember to read pins) to troubleshoot your issue.
 
 ## Visual Tweak/Plugin Config
-You saw the previews, you know what's coming. To get the visual tweak as featured in title preview, the appropriate settings of these folowing plugins is necessary:
+You saw the previews, you know what's coming. To get your Discord client looks like in title preview, the proper settings of these folowing plugins is required:
 ### BetterChatbox
 #### General
 - Use old gallery button: Enabled
@@ -53,11 +54,21 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Video button
 - Leave the rest disabled
 
+### LayoutController: Enable these folowing
+- Remove call button from the user sheet
+- Remove the Nitro Gift button
+- Remove the Wave button in blank DMs
+- Remove the invite button in channels list
+- Remove the invite button in members list
+- Remove the student hubs button in the server list
+- Remove the wellcome button on join messages
+
 ### Bonus
 - **CustomTimestamp**: Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
 - **SquareAvatars**: Simply install the plugin. That's it.
 
 ## Previews
+### <sup>(If you're on mobile, tap on the preview to open it in new tab)</sup>
 ![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
 
 ![asterisk-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/asterisk-preview.png)
