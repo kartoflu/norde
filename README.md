@@ -19,7 +19,7 @@
 
 ## Manual Installation
 Having troubles with regular installation? Try intalling the theme with this guide instead:
-1. Download theme file from [Releases](https://github.com/kartoflu/midnight-espresso/releases/tag/v1.0.0)
+1. Download theme file from [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
 2. Move the file you just downloaded to Aliucord/themes using a file explorer
 3. Restart the app
 
