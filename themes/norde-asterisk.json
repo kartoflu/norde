@@ -54,7 +54,8 @@
         "primary_630": -14210251,
         "primary_660": -14210251,
         "primary_dark_330": -9338726,
-        "brand_new_500": -11443845
+        "brand_new_500": -11443845,
+        "primary_300": -14210251
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -13222835,
