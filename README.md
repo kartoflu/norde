@@ -76,3 +76,4 @@ You saw the previews, you know what's coming. To get your Discord client looks l
 ![schwa-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/schwa-preview.png)
 
 <!-- pshh, wanna know a fact? i barely used the actual nord color pallete in the making of norde, asterisk and even schwa. in other words, i made a set of rip-off nord themes and you all fell for it (kekw) -->
+<!-- also og aliucord nord https://discord.com/channels/811255666990907402/824357609778708580/865677697693515786 -->
