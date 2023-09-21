@@ -1,11 +1,10 @@
 ![title-preview](previews/title.png)
 
 ## Requirements
-- [Aliucord](https://github.com/Aliucord/Aliucord) & [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) Installed (duh)
+- [Aliucord](https://github.com/Aliucord/Aliucord) & [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) Installed
   - Transparency set to Chat & Settings
   - Enable Custom Fonts
 - Dark Mode Enabled
-- (Optional) Set Chat Font Scalling to 80% or any size that fits your preferences
 
 ## What's new?
 ### Norde v3.0.0 and Norde-Asterisk v2.0.0
@@ -68,12 +67,8 @@ You saw the previews, you know what's coming. To get your Discord client looks l
 - **SquareAvatars**: Simply install the plugin. That's it.
 
 ## Previews
-### <sup>(If you're on mobile, tap on the preview to open it in new tab)</sup>
 ![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
 
-![asterisk-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/asterisk-preview.png)
+![nord-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/nord-preview.png)
 
-![schwa-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/schwa-preview.png)
-
-<!-- pshh, wanna know a fact? i barely used the actual nord color pallete in the making of norde, asterisk and even schwa. in other words, i made a set of rip-off nord themes and you all fell for it (kekw) -->
-<!-- also og aliucord nord https://discord.com/channels/811255666990907402/824357609778708580/865677697693515786 -->
+<!-- og aliucord nord https://discord.com/channels/811255666990907402/824357609778708580/865677697693515786 -->
