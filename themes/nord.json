@@ -2,8 +2,9 @@
     "manifest": {
         "author": "Komette (aka kanned), based on noel's nord theme",
         "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/nord.json",
         "license": "MIT",
-        "name": "#Nord"
+        "name": "Nord"
     },
     "background": {},
     "fonts": {
