@@ -1,49 +1,31 @@
 # **Changelog**
 
-Funky useless changelog that probably no one will see (kekw)
-
-<!-- Also can somebody give me a guide to proper versioning I'm tired of messing up -->
-
 ## Norde
 
 ### 3.0.0 - 2022-07-31
-
-#### Changed
-- Some color tweaks
-- Switched font and background host from Discord to Github
-
-#### Fixed
-- Uncolored texts and icons
+- Color tweaks
+- All theme related resources are now hosted on Github
+- Fix some uncolored texts and icons
 - Removed the annoying blur banding in background
 
 ### 2.0.1 - 2021-11-06
-
-#### Added
-- Themed codeblocks
+- Themed codeblock
 
 ### 2.0.0 - 2021-11-02
-
-#### Changed
-- Major color tweaks for better readability and a more seamless user experience
-- Replaced channel title font
-
-#### Added
-- Themed media viewer and other elements
+- Major color tweaks to improve user experience
+- New title font
+- Themed media viewer and other
 
 ### 1.0.2 - 2021-10-29
-
-#### Added
 - Themed NoBurnIn sidebar buttons
 
 ### 1.0.1 - 2021-10-15
-
-#### Changed
-- Hotfix to replace the unfitting ping color
+- Replaced ping color
 
 ### 1.0.0 - 2021-10-15
 - Initial release
 
-## Norde-Asterisk
+<!-- ## Norde-Asterisk
 
 ### 2.0.0 - 2022-07-31
 
@@ -62,9 +44,13 @@ Funky useless changelog that probably no one will see (kekw)
 - Renamed norde [a] to norde*
 
 ### 1.0.0 - 2021-10-26
-- Initial release
+- Initial release -->
 
-## Nord-Schwa (Nord-ǝ)
+## Nord
+
+### 1.1.0 - 2023-09-22
+- Renamed to Nord to avoid confusion
+- Tweaked to use the more accurate Nord palette
 
 ### 1.0.0 - 2022-07-31
 - Initial release
