@@ -4,24 +4,24 @@
 
 ## Requirements
 - [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) module installed
-  - Transparency set to Chat
+  - Transparency mode set to Chat
   - Custom font enabled
 
 ## What's new?
 
 ### Removal of Norde-Asterisk
-- Despite my attempts to make Asterisk stand out, it still somehow ended up looking like a clone of Norde, so I decided to just get rid of it
+- Despite my attempts to make Asterisk stand out, it still somehow ended up looking like a clone of Norde, so I decided to just get rid of it.
 
 ### Nord
-- Formerly Nord-Schwa, now modified to use the Nord palette (with minor exceptions in order to make the theme look nicer)
+- Formerly Nord-Schwa, now modified to use the Nord palette (with minor exceptions in order to make the theme look nicer).
 ##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
 If you encounter any issue (ex. theme not loading properly), please see the #theme-support section in the official [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (check the pinned messages first, thank you) to troubleshoot your problem.
 
 ### Alternative Installation Method
-In case my links in theme distribution channel are broken, you can manually install these by following these steps:
-1. From this page, scroll up, click the blue "View code" line and click on the *themes* folder
-2. In *themes*, select the one you prefered
+In case my links in theme distribution channel are broken, you can manually install them by following these steps:
+1. From this page, scroll up, click the blue "View code" line and select the *themes* folder
+2. In *themes*, choose the one you want to be installed
 3. When the page is loaded, click the 3 dots button on the right side of the codeblock header (the box with colorful codes), then hit Download
 4. Using a file manager (ex. ZArchiver), move the downloaded theme to Aliucord > Themes
 
