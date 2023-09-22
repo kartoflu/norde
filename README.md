@@ -1,31 +1,34 @@
 ![title-preview](previews/title.png)
 
+#### Note: This is the Aliucord version of this theme. <!-- Norde for Vendetta coming soon! -->
+
 ## Requirements
-- [Aliucord](https://github.com/Aliucord/Aliucord) & [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) Installed
-  - Transparency set to Chat & Settings
-  - Enable Custom Fonts
-- Dark Mode Enabled
+- [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) module installed
+  - Transparency set to Chat
+  - Custom font enabled
 
 ## What's new?
-### Norde v3.0.0 and Norde-Asterisk v2.0.0
-- Another color tweak™
-- Fixed some uncolored texts and icons + removed the annoying blur banding in background
-- Switched font and background host from Discord to Github
-- (Asterisk) Renamed norde* to norde-asterisk
-### Nord-Schwa (Nord-ə) v1.0.0
-- Initial release
+
+### Removal of Norde-Asterisk
+- Despite my attempts to make Asterisk stand out, it still somehow ended up looking like a clone of Norde, so I decided to just get rid of it
+
+### Nord
+- Formerly Nord-Schwa, now modified to use the Nord palette (with minor exceptions in order to make the theme look nicer)
 ##### You can check the full changelog [here](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
-## Manual Installation
-Having troubles with regular installation? Try intalling the theme with this guide instead:
-1. Download theme file from [Releases](https://github.com/kartoflu/norde/releases/tag/v1.0.0)
-2. Move the file you just downloaded to Aliucord/themes using a file explorer
-3. Restart the app
+If you encounter any issue (ex. theme not loading properly), please see the #theme-support section in the official [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (check the pinned messages first, thank you) to troubleshoot your problem.
 
-Note: If your theme can't properly load in, it might be your device's fault. Please see #theme-support in [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (remember to read pins) to troubleshoot your issue.
+### Alternative Installation Method
+In case my links in theme distribution channel are broken, you can manually install my themes by following these steps:
+1. From this page, scroll up and click on the *themes* folder
+2. In *themes*, select the one you prefered
+3. When the page is loaded, click the 3 dots button on the right side of the codeblock header (the box with colorful codes), then hit Download
+4. Using a file manager (ex. ZArchiver), move the downloaded theme file to Aliucord > Themes
 
-## Visual Tweak/Plugin Config
-You saw the previews, you know what's coming. To get your Discord client looks like in title preview, the proper settings of these folowing plugins is required:
+Now just restart Aliucord and enable the newly installed theme like normal.
+
+## Plugin Configuration
+These below are the recommended plugins & settings for the best Norde experience. You can skip this part if you want, but I recommend giving it a try.
 ### BetterChatbox
 #### General
 - Use old gallery button: Enabled
@@ -62,9 +65,9 @@ You saw the previews, you know what's coming. To get your Discord client looks l
 - Remove the student hubs button in the server list
 - Remove the wellcome button on join messages
 
-### Bonus
-- **CustomTimestamp**: Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
-- **SquareAvatars**: Simply install the plugin. That's it.
+### Bonus - Recommended Plugins
+- CustomTimestamps
+- SquareAvatars
 
 ## Previews
 ![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
