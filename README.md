@@ -19,11 +19,11 @@
 If you encounter any issue (ex. theme not loading properly), please see the #theme-support section in the official [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (check the pinned messages first, thank you) to troubleshoot your problem.
 
 ### Alternative Installation Method
-In case my links in theme distribution channel are broken, you can manually install my themes by following these steps:
-1. From this page, scroll up and click on the *themes* folder
+In case my links in theme distribution channel are broken, you can manually install these by following these steps:
+1. From this page, scroll up, click the blue "View code" line and click on the *themes* folder
 2. In *themes*, select the one you prefered
 3. When the page is loaded, click the 3 dots button on the right side of the codeblock header (the box with colorful codes), then hit Download
-4. Using a file manager (ex. ZArchiver), move the downloaded theme file to Aliucord > Themes
+4. Using a file manager (ex. ZArchiver), move the downloaded theme to Aliucord > Themes
 
 Now just restart Aliucord and enable the newly installed theme like normal.
 
