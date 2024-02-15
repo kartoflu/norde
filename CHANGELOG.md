@@ -2,27 +2,27 @@
 
 ## Norde
 
-### 3.0.0 - 2022-07-31
-- Color tweaks
-- All theme related resources are now hosted on Github
-- Fix some uncolored texts and icons
-- Removed the annoying blur banding in background
+### 3.0.0 (31 - 7 - 2022)
+- Another color adjustment to further improve consistency between background and other elements
+- All resources have been migrated and are now hosted on Github
+- More texts and icons are colored
+- Solved the annoying blur banding issue with the background
 
-### 2.0.1 - 2021-11-06
-- Themed codeblock
+### 2.0.1 (6 - 11 - 2021)
+- Colored codeblock
 
-### 2.0.0 - 2021-11-02
-- Major color tweaks to improve user experience
-- New title font
-- Themed media viewer and other
+### 2.0.0 (2 - 11 - 2021)
+- Color fine-tuning
+- Replaced old title font
+- More elements are themed, including image and video viewer
 
-### 1.0.2 - 2021-10-29
-- Themed NoBurnIn sidebar buttons
+### 1.0.2 (29 - 10 - 2021)
+- Some sidebar buttons are now colored
 
-### 1.0.1 - 2021-10-15
-- Replaced ping color
+### 1.0.1 (15 - 10 - 2021)
+- Changed ping color to make the theme more consistent
 
-### 1.0.0 - 2021-10-15
+### 1.0.0 (15 - 10 - 2021)
 - Initial release
 
 <!-- ## Norde-Asterisk
@@ -48,9 +48,9 @@
 
 ## Nord
 
-### 1.1.0 - 2023-09-22
-- Renamed to Nord to avoid confusion
-- Tweaked to use the more accurate Nord palette
+### 1.1.0 (22 - 9 - 2023)
+- Renamed Nord-Schwa to Nord to avoid confusion
+- Modified to use the Nord palette
 
-### 1.0.0 - 2022-07-31
+### 1.0.0 (31 - 7 - 2022)
 - Initial release
