@@ -1,7 +1,7 @@
 
 {
   "name": "Norde",
-  "description": "Nord, but with transparency™",
+  "description": "Nord with transparency for Discord (mobile)",
   "authors": [
     {
       "name": "Komette",
@@ -157,7 +157,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/kartoflu/norde-for-vendetta/main/theme/norde-bg.png",
+    "url": "https://raw.githubusercontent.com/kartoflu/norde/vendetta/themes/norde.json",
     "alpha": 0
   },
     "spec": 2
