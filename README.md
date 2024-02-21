@@ -127,23 +127,23 @@ Optional, can be set as you wish.
     <td>Navigation bar</td>
     <td>n/a</td>
   </tr>
-    <tr>
+  <tr>
     <td>Both bars</td>
     <td>n/a</td>
   </tr>
-    <tr>
+  <tr>
     <td>Channel icon</td>
     <td><code>Disabled</code></td>
   </tr>
-    <tr>
+  <tr>
     <td>Toolbar text</td>
     <td><code>Disabled</code></td>
   </tr>
-    <tr>
+  <tr>
     <td>Unread counter</td>
     <td><code>Enabled</code></td>
   </tr>
-    <tr>
+  <tr>
     <td>Drawer button</td>
     <td><code>Enabled</code></td>
   </tr>
@@ -187,39 +187,35 @@ Optional, can be set as you wish.
     <td>Remove the Wave button in blank DMs</td>
     <td><code>Enabled</code></td>
   </tr>
-    <tr>
-    <td>Remove the invite button in channels list</td>
+  <tr>
+    <td>Remove the crown from server owners</td>
     <td><code>Disabled</code></td>
   </tr>
-    <tr>
-    <td>Remove the crown from server owners</td>
+  <tr>
+    <td>Remove the invite button in channels list</td>
     <td><code>Enabled</code></td>
   </tr>
-    <tr>
+  <tr>
     <td>Remove the invite button in members list</td>
     <td><code>Enabled</code></td>
   </tr>
-    <tr>
-    <td>Remove the search box in DM list</td>
-    <td><code>Disabled</code></td>
-  </tr>
-    <tr>
+  <tr>
     <td>Remove the notes box from the user sheet</td>
     <td><code>Disabled</code></td>
   </tr>
   <tr>
-    <td>Remove the student hubs button in the server list</td>
+    <td>Remove the search box in DM list</td>
     <td><code>Disabled</code></td>
   </tr>
   <tr>
-    <td>Remove the welcome button on join messages</td>
-    <td><code>Disabled</code></td>
+    <td>Remove the student hubs button in the server list</td>
+    <td><code>Enabled</code></td>
   </tr>
   <tr>
     <td>Remove the untrusted domain dialog</td>
     <td><code>Disabled</code></td>
   </tr>
-    <tr>
+  <tr>
     <td>Remove the welcome button on join messages</td>
     <td><code>Enabled</code></td>
   </tr>
