@@ -1,105 +1,164 @@
+
 {
-    "manifest": {
-        "name": "norde",
-        "author": "kanned (karto)",
-        "version": "3.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde.json",
-        "license": "MIT"
+  "name": "Norde",
+  "description": "Nord, but with transparency™",
+  "authors": [
+    {
+      "name": "Komette",
+      "id": "555686162153472000"
+    }
+  ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#F44336"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#7F8DA7"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#282D38"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2B313E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2B313E"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#282D38"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#434C5E"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#434C5E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#2B313E"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2B313E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2B313E"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#2B313E"
+        ],
+        "BACKGROUND_MODIFIER_SELECT": [
+            "#2B313E"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#353C4E"
+        ],
+        "CHAT_BACKGROUND": [
+            "#282D38"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#282D38"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#2B313E"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7F8DA7"
+        ],
+        "CHANNEL_ICON": [
+            "#7F8DA7"
+        ],
+        "HEADER_PRIMARY": [
+            "#D8DEE9"
+        ],
+        "HEADER_SECONDARY": [
+            "#7F8DA7"
+        ],
+        "ICON_MUTED": [
+            "#7F8DA7"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#7F8DA7"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#7F8DA7"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D8DEE9"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4F5B71"
+        ],
+        "INPUT_BACKGROUND": [
+            "#282D38"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
+            "#7F8DA7"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#2B313E"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#2B313E"
+        ],
+        "TEXT_NORMAL": [
+            "#D8DEE9"
+        ],
+        "TEXT_MUTED": [
+            "#7F8DA7"
+        ],
+        "TEXT_LINK": [
+            "#88C0D0"
+        ],
+        "TEXT_DANGER": [
+            "#BF616A"
+        ]
     },
-    "background": {
-        "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/backgrounds\/norde-bg.png",
-        "blur_radius": 0
+    "rawColors": {
+        "PRIMARY_100": "#D8DEE9",
+        "PRIMARY_160": "#F44336",
+        "PRIMARY_200": "#F44336",
+        "PRIMARY_300": "#7F8DA7",
+        "PRIMARY_360": "#7F8DA7",
+        "PRIMARY_400": "#D8DEE9",
+        "PRIMARY_460": "#2B313E",
+        "PRIMARY_500": "#7F8DA7",
+        "PRIMARY_600": "#282D38",
+        "PRIMARY_630": "#2B313E",
+        "PRIMARY_660": "#282D38",
+        "PRIMARY_700": "#282D38",
+        "PRIMARY_800": "#282D38",
+        "BRAND_260": "#88C0D0",
+        "BRAND_360": "#7F8DA7",
+        "BRAND_500": "#81A1C1",
+        "BRAND_560": "#5E81AC",
+        "RED_400": "#5E81AC",
+        "GREEN_360": "#88C0D0",
+        "YELLOW_300": "#5E81AC",
+        "WHITE_500": "#D8DEE9",
+
+        "ORANGE_345": "#D08770",
+        "RED_560": "#BF616A",
+        "GREEN_345": "#A3BE8C",
+        "BLUE_345": "#5E81AC"
     },
-    "fonts": {
-        "ginto_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-Bold.ttf?raw=true",
-        "ginto_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Inter-SemiBold.ttf?raw=true",
-        "whitney_medium": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true",
-        "whitney_semibold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-SemiBold.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Bold.ttf?raw=true",
-        "ginto_regular": "https:\/\/github.com\/kartoflu\/norde\/blob\/main\/fonts\/Cabin-Medium.ttf?raw=true"
-    },
-    "simple_colors": {
-        "mention_highlight": 646496464,
-        "accent": -8537654,
-        "input_background": -14341836
-    },
-    "colors": {
-        "link": -6500644,
-        "primary_700": -13946562,
-        "primary_dark_360": -9273449,
-        "primary_dark_400": -8417881,
-        "primary_dark_600": -14144200,
-        "primary_dark_630": -13946562,
-        "primary_dark_660": -13683132,
-        "primary_dark_700": -14144200,
-        "primary_dark_800": -14144200,
-        "uikit_btn_bg_color_selector_red": -8537654,
-        "uikit_btn_compound_color_selector_light": -8537654,
-        "primary_dark_300": -8417881,
-        "uikit_btn_bg_color_selector_green": -8537654,
-        "primary_dark_200": -2564375,
-        "uikit_btn_compound_color_selector_dark": -8537654,
-        "brand_500_alpha_20": 1398702508,
-        "uikit_settings_item_text_color_dark": -2564375,
-        "uikit_settings_item_text_color_light": -11576463,
-        "link_500": -6500644,
-        "brand_new_560": 2435380,
-        "primary_700_alpha_60": 2764603,
-        "black_alpha_10": 2764603,
-        "primary_dark_900": -13946562,
-        "primary_900_alpha_80": -14144200,
-        "primary_660": -13946562,
-        "primary_630": -13946562,
-        "primary_dark_330": -8417881,
-        "brand_new_500": -8537654,
-        "primary_300": -13946562
-    },
-    "drawable_tints": {
-        "drawable_overlay_channels_selected_dark": -13288370,
-        "ic_channel_text": -11116682,
-        "ic_sidebar_pins_off_dark_24dp": -8417881,
-        "ic_sidebar_notifications_on_dark_24dp": -8417881,
-        "ic_sidebar_notifications_off_dark_24dp": -8417881,
-        "drawable_voice_indicator_speaking": -4234902,
-        "drawable_overlay_channels_dark": -13288370,
-        "ic_direct_message_header": -11116682,
-        "ic_group_message_header": -11116682,
-        "ic_menu_24dp": -8417881,
-        "ic_channel_announcements": -11116682,
-        "ic_channel_announcements_locked": -11116682,
-        "ic_channel_announcements_nsfw": -11116682,
-        "ic_channel_text_locked": -11116682,
-        "ic_channel_text_nsfw": -11116682,
-        "ic_thread": -11116682,
-        "ic_thread_nsfw": -11116682,
-        "ic_thread_locked": -11116682,
-        "ic_channel_topic_ellipsis_light": -11116682,
-        "ic_channel_topic_ellipsis_dark": -11116682,
-        "ic_channel_voice_locked": -11116682,
-        "ic_channel_voice": -11116682,
-        "ic_channel_lock_16dp": -11116682,
-        "ic_channel_announcements_thread_nsfw": -11116682,
-        "ic_channel_announcements_thread_locked": -11116682,
-        "ic_channel_announcements_thread": -11116682,
-        "ic_channel_pinned_message": -8417881,
-        "ic_sidebar_search_24dp": -8417881,
-        "ic_open_in_browser_white_24dp": -8417881,
-        "ic_file_download_white_24dp": -8417881,
-        "ic_share_white_24dp": -8417881,
-        "ic_arrow_back_white_24dp": -8417881,
-        "ic_archived_clock_dark": -8417881,
-        "ic_notifications_white_a60_24dp": -4601109,
-        "ic_visibility_white_24dp": -4601109,
-        "ic_thread_white_24dp": -4601109,
-        "ic_content_copy_white_a60_24dp": -4601109,
-        "ic_notifications_settings_white_a60_24dp": -4601109,
-        "ic_person_add_white_a60_24dp": -4601109,
-        "ic_settings_white_a60_24dp": -4601109,
-        "ic_notifications_off_white_a60_24dp": -4601109,
-        "ic_share_white_a60_24dp": -4601109,
-        "ic_open_in_new_white_a60_24dp": -4601109,
-        "ic_account_circle_white_a60_24dp": -4601109
-    },
-    "raws": {}
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": "#7F8DA7",
+      "StatusStreaming": "#88C0D0",
+      "StatusMobileOnline": "#88C0D0",
+      "StatusIdle": "#EBCB8B",
+      "StatusDND": "#BF616A",
+      "StatusOffline": "#4C566A",
+      "StatusOnline": "#88C0D0",
+      "ic_radio_square_checked_24px": "#88C0D0"
+    }
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/kartoflu/norde-for-vendetta/main/theme/norde-bg.png",
+    "alpha": 0
+  },
+    "spec": 2
 }
