@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "norde",
-        "author": "kanned (karto)",
+        "author": "Komette",
         "version": "3.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/norde\/main\/themes\/norde.json",
         "license": "MIT"
