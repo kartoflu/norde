@@ -49,27 +49,27 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Use old gallery icon</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Use small gallery button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Always show send button</td>
-    <td><code>Disabled</code></td>
+    <td align="center">&#9744;</td>
   </tr>
   <tr>
     <td>Avatar display mode</td>
-    <td><code>None</code></td>
+    <td align="center"><code>None</code></td>
   </tr>
   <tr>
     <td>Avatar On Press Mode</td>
-    <td><code>None</code></td>
+    <td align="center"><code>None</code></td>
   </tr>
   <tr>
     <td>Avatar long Press Mode</td>
-    <td><code>None</code></td>
+    <td align="center"><code>None</code></td>
   </tr>
 </table>
 
@@ -77,19 +77,19 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Avatar radius</td>
-    <td>Default</td>
+    <td align="center">Any</td>
   </tr>
   <tr>
     <td>Chatbox radius</td>
-    <td><code>57</code></td>
+    <td align="center"><code>57</code></td>
   </tr>
   <tr>
     <td>Button radius</td>
-    <td><code>57</code></td>
+    <td align="center"><code>57</code></td>
   </tr>
   <tr>
     <td>Square chatbox</td>
-    <td>Default</td>
+    <td align="center">&#9744;</td>
   </tr>
 </table>
 
@@ -97,126 +97,66 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Avatar size</td>
-    <td>Default</td>
+    <td align="center">Any</td>
   </tr>
   <tr>
     <td>Chatbox height</td>
-    <td><code>114</code></td>
+    <td align="center"><code>114</code></td>
   </tr>
   <tr>
     <td>Button size</td>
-    <td><code>114</code></td>
+    <td align="center"><code>114</code></td>
   </tr>
 </table>
 
 #### Hint
-Optional, can be set as you wish.
+Leave blank.
 
 ### NoBurnIn
 <table>
   <tr>
     <td>Immersive mode</td>
-    <td><code>Disabled</code></td>
-  </tr>
-  <tr>
-    <td>Status bar</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>Navigation bar</td>
-    <td>n/a</td>
-  </tr>
-  <tr>
-    <td>Both bars</td>
-    <td>n/a</td>
+    <td align="center">&#9744;</td>
   </tr>
   <tr>
     <td>Channel icon</td>
-    <td><code>Disabled</code></td>
+    <td align="center">&#9744;</td>
   </tr>
   <tr>
     <td>Toolbar text</td>
-    <td><code>Disabled</code></td>
+    <td align="center">&#9744;</td>
   </tr>
   <tr>
     <td>Unread counter</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Drawer button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Search button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Threads button</td>
-    <td><code>Disabled</code></td>
+    <td align="center">&#9744;</td>
   </tr>
   <tr>
     <td>Members button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Call button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Video button</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9745;</td>
   </tr>
   <tr>
     <td>Toolbar</td>
-    <td><code>Disabled</code></td>
-  </tr>
-</table>
-
-### LayoutController
-<table>
-  <tr>
-    <td>Remove call button from the user sheet</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the Nitro Gift button</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the Wave button in blank DMs</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the crown from server owners</td>
-    <td><code>Disabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the invite button in channels list</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the invite button in members list</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the notes box from the user sheet</td>
-    <td><code>Disabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the search box in DM list</td>
-    <td><code>Disabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the student hubs button in the server list</td>
-    <td><code>Enabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the untrusted domain dialog</td>
-    <td><code>Disabled</code></td>
-  </tr>
-  <tr>
-    <td>Remove the welcome button on join messages</td>
-    <td><code>Enabled</code></td>
+    <td align="center">&#9744;</td>
   </tr>
 </table>
 
