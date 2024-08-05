@@ -17,7 +17,7 @@
 
 ### 2.0.0 (02.11.2021)
 - Color adjustments
-- Replace old header font to Inter
+- Replace old header font with Inter
 - Theme more elements (image & video viewer, etc)
 
 ### 1.0.2 (29.10.2021)
