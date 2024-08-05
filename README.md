@@ -1,49 +1,48 @@
-![title-preview](previews/title.png)
+![title](previews/title.png)
 
 > [!NOTE]  
-> This version is only compatible with Aliucord. For Vendetta (discontinued), see [this.](https://github.com/kartoflu/norde-for-vendetta)
+> This theme was created based on the [Nord colorscheme.](https://www.nordtheme.com/) Only compatible with Aliucord.
 
 ## Required Plugins
 - [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer)
-  - Transparency mode - `Chat`
-  - Custom font - `Enabled`
-- (Optional) BetterChatbox, NoBurnIn, LayoutController, BetterCodeBlocks, BetterChannelIcons, SquareAvatars, CustomTimestamps
+- Optional plugins: BetterChatbox, NoBurnIn, LayoutController
 
-## What's new? (22 - 9 - 2023)
+## What's new? (Aug 05, 2024)
 
-### Removal of Norde-Asterisk
-- Asterisk is supposed to be an alternate version of Norde with a slightly darker tone to make it easier on the eyes for late-night usage. This version, unfortunately, ended up looking like a Norde clone instead, so I decided to removed it.
+### Norde (3.1.0)
+- Replace old Inter font (for headers, etc) with Nunito Sans
+- Update font links
 
-### Nord
-- Formerly known as Nord-Schwa, now modified to use the Nord palette. This is the basic Nord theme for those who prefer a barebone Nord experience.
+### Nord (1.2.0)
+- Replace old Inter font (for headers, etc) with Nunito Sans
+- Update font links
+- Some color tweaks to comply with Nord docs
 
-##### Full changelog? [Here.](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
+##### [Full changelog](https://github.com/kartoflu/norde/blob/main/CHANGELOG.md)
 
-> [!IMPORTANT]  
-> Having any unexpected difficulties (app crashing, theme not fully loaded, etc)? See the official [Aliucord Server](https://discord.gg/EsNDvBaHVU) for the help you need.
+## Usage
 
-## Theme Sideloading
-For themes outside of the [official source](https://discord.gg/EsNDvBaHVU), the only method of installation is through sideloading. This also applies to other alternate versions of Norde (which weren't available in the initial submission) and many different third-party themes.
+### a - Using Themer
+The conventional way to install themes. Make sure to join the [Aliucord server](https://discord.gg/EsNDvBaHVU) before following these instructions.
 
-With that said, here's the brief instruction on how you can sideload themes by yourself:
+1. Go to `#themes` and search for this theme
+2. Long press the message, then press `Install <theme name>`
+3. Open Themer settings (`User settings` > `Plugins` > `Themer`) and enable the theme.
 
-1. Download the zip file of this repo (or you can clone it with `git clone https://github.com/kartoflu/norde.git`). In case you don't know where the download link is, it's in `Code` > `Download ZIP`.
-2. Unzip the file, move all the contents under `themes` into `Internal Storage/Aliucord/themes` using a file manager.
-2. Restart Aliucord. You can now toggle and use the theme as normal.
+### b - Installing Manually
+
+1. Download the zip file of this repo ( `Code` > `Download ZIP`)
+2. Unzip it, move all contents under `themes` to `Internal Storage/Aliucord/themes`
+3. Restart Aliucord and enable the theme.
 
 ## Plugin Configurations
+
+### Themer (Required)
+  - Transparency mode - `None`
+  - Custom font - `Enabled`
+
 > [!NOTE]
-> This section is completely optional, however if you are willing to experience this theme in its intended manner then this is for you. If you are not interested, feel free to skip it.
-
-For those listed below, you can simply install them and leave everything alone as their default presets are good enough. Still, you can spice things up by changing any settings you like.
-- BetterCodeBlocks
-- BetterChannelIcons
-- SquareAvatars
-
-> Plugins from here on will require some fine-tuning here and there. You might want to follow this part carefully.
-
-### CustomTimestamps
-Set to `h:mm / d M YY`
+> The rest from here on out is fully optional, skip it if you want to. Highly recommended if you want to better your experience.
 
 ### BetterChatbox
 #### General
@@ -222,6 +221,6 @@ Optional, can be set as you wish.
 </table>
 
 ## Previews
-![norde-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-preview.png)
+![norde-previews](https://raw.githubusercontent.com/kartoflu/norde/main/previews/norde-previews.png)
 
-![nord-preview](https://raw.githubusercontent.com/kartoflu/norde/main/previews/nord-preview.png)
+![nord-previews](https://raw.githubusercontent.com/kartoflu/norde/main/previews/nord-previews.png)
