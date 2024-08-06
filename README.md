@@ -49,27 +49,27 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Use old gallery icon</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Use small gallery button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Always show send button</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
   <tr>
     <td>Avatar display mode</td>
-    <td align="center"><code>None</code></td>
+    <td align="center">None</td>
   </tr>
   <tr>
     <td>Avatar On Press Mode</td>
-    <td align="center"><code>None</code></td>
+    <td align="center">None</td>
   </tr>
   <tr>
     <td>Avatar long Press Mode</td>
-    <td align="center"><code>None</code></td>
+    <td align="center">None</td>
   </tr>
 </table>
 
@@ -77,19 +77,19 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Avatar radius</td>
-    <td align="center">Any</td>
+    <td align="center">51</td>
   </tr>
   <tr>
     <td>Chatbox radius</td>
-    <td align="center"><code>57</code></td>
+    <td align="center">51</td>
   </tr>
   <tr>
     <td>Button radius</td>
-    <td align="center"><code>57</code></td>
+    <td align="center">51</td>
   </tr>
   <tr>
     <td>Square chatbox</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
 </table>
 
@@ -97,15 +97,15 @@ The conventional way to install themes. Make sure to join the [Aliucord server](
 <table>
   <tr>
     <td>Avatar size</td>
-    <td align="center">Any</td>
+    <td align="center">102</td>
   </tr>
   <tr>
     <td>Chatbox height</td>
-    <td align="center"><code>114</code></td>
+    <td align="center">102</td>
   </tr>
   <tr>
     <td>Button size</td>
-    <td align="center"><code>114</code></td>
+    <td align="center">102</td>
   </tr>
 </table>
 
@@ -116,47 +116,47 @@ Leave blank.
 <table>
   <tr>
     <td>Immersive mode</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
   <tr>
     <td>Channel icon</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
   <tr>
     <td>Toolbar text</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
   <tr>
     <td>Unread counter</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Drawer button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Search button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Threads button</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
   <tr>
     <td>Members button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Call button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Video button</td>
-    <td align="center">&#9745;</td>
+    <td align="center">&check;</td>
   </tr>
   <tr>
     <td>Toolbar</td>
-    <td align="center">&#9744;</td>
+    <td align="center">&cross;</td>
   </tr>
 </table>
 
